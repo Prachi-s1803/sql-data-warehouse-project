@@ -33,10 +33,10 @@ Develope SQL-based analytics to deliver insights into:
 
   ---
 
-  ## License
+## License
 
-  This project is licensed under the[MIT License](LICENSE).You are free to use,modify, and share this project with proper attribution.
+This project is licensed under the[MIT License](LICENSE).You are free to use,modify, and share this project with proper attribution.
 
-  ## About Me
+## About Me
 
-  Hi there! I'm **Prachi Saini**.I'm a Master's student curious about data and how it flows from sources to insights,I built this project to learn and explore data warehousing concepts.
+Hi there! I'm **Prachi Saini**.I'm a Master's student curious about data and how it flows from sources to insights,I built this project to learn and explore data warehousing concepts.
