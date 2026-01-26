@@ -165,8 +165,8 @@ begin
 		case when bdate> getdate() then NULL
 			 else bdate
 		end as bdate,
-		case when upper(trim(gen)) In ('F','FEMALE') THEN 'FEMALE'
-			 when upper(trim(gen)) In ('M','MALE') THEN 'MALE'
+		case when upper(trim(gen)) In ('F','FEMALE') THEN 'Female'
+			 when upper(trim(gen)) In ('M','MALE') THEN 'Male'
 			 else 'n/a'
 		END AS gen
 		from bronze.erp_cust_az12
